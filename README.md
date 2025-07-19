@@ -6,8 +6,23 @@ or via telegram, my nickname - <a href="https://t.me/Danie_lk">@Daniel_k</a>
 </p>
 
 <h2>My stack</h2>
-<p align="center">
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+  <img src=""/>
+</p>
 
+<h2>What can i do</h2>
+<p>
+  <div>
+    <img src=""/>
+  </div>
+</p>
+
+<h2>My projects</h2>
+<p>
   
 </p>
 
