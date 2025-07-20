@@ -17,9 +17,10 @@
 
 <h2>Навыки</h2>
 <p>
-  <div>
+  <div style="display:flex; align-items:center;">
     <img height=40 src="https://cdn-icons-png.flaticon.com/512/8212/8212616.png"/>Разработка на Unity
   </div>
+  
 </p>
 
 <h2>My projects</h2>
