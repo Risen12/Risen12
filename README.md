@@ -1,16 +1,16 @@
-## Hi, i am Daniil 👋
+## Всем привет, меня зовут Даниил 👋
 
-<p>I am Unity Developer, currently looking for a job.
-For connection with me, you write on daniil_lautenshleger@gmail.com
-or via telegram, my nickname - <a href="https://t.me/Danie_lk">@Daniel_k</a>
+<p>
+  Я начинающий Unity разработчик
 </p>
 
-<h2>My stack</h2>
+<h2>Мой стэк</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <h2>What can i do</h2>
