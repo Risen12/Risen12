@@ -16,18 +16,13 @@
 </p>
 
 <h2>Навыки</h2>
-<p>
   <div style="display: flex; align-items: center; justify-content: center;">
     <img height=40 src="https://cdn-icons-png.flaticon.com/512/8212/8212616.png"/>
-    <span style="margin-left: 8px;">Разработка на Unity</span
+    <span>Разработка на Unity</span>
   </div>
-  
-</p>
 
 <h2>My projects</h2>
-<p>
-  
-</p>
+
 
 
 <p align="center">Connect with me!</p>
@@ -35,30 +30,13 @@
   <a href="">
     <img height=150 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://t.me/Danie_lk">
     <img height=150 src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="">
     <img height=150 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
   </a>
 </p>
-
-
-
-<!--
-**Risen12/Risen12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 <div align="center" style="margin: 40px 0">
