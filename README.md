@@ -19,7 +19,7 @@
 <p>
   <div style="display: flex; align-items: center; justify-content: center;">
     <img height=40 src="https://cdn-icons-png.flaticon.com/512/8212/8212616.png"/>
-    <span>>Разработка на Unity</span
+    <span style="margin-left: 8px;">Разработка на Unity</span
   </div>
   
 </p>
