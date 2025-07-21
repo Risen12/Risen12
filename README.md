@@ -23,6 +23,7 @@
 *   Понимание принципов ООП, SOLID
 *   Умение работать с Spine, Photoshop
 *   Знание базовых архитектурных паттернов (State, Observer, Strategy, Factory)
+*   Умение работать с таск-трекером Jira, а также порталом Confluence
 
 
 ### Soft - скиллы
